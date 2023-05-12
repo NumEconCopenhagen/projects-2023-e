@@ -1,7 +1,7 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Run the (modelproject.ipynb).
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
+Note: We are using Jupyter Notebook from Anaconda. There might be some issues if you are using VSCODE. 
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+Remember to download all the packages we have imported. There is quite a few. 
