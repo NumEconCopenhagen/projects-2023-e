@@ -9,4 +9,4 @@
 This repository contains  
 1. Inaugural project. 
 2. Data project. We fetch data from FRED on Inflation unemployment and illustrate the The expectations-augmented Phillips curve.
-3. Model project. We model ...
+3. Model project. We model the Phillips Curve. Then we use a GBR model to predict future values of inflation. We use data from FRED. Our model performs relatively good. 
