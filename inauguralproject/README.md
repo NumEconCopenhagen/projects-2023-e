@@ -8,4 +8,4 @@ The **results** of the project can be seen from running [inauguralproject.ipynb]
 
 
 
-### Emil Schaldemose Wahl Hansen (SGP152), HOLD 7.
+
